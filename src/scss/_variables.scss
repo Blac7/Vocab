@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400;700&display=swap");
+
+//colors
+$primary-color: #5d1049;
+$primary-color-light: #720d5d;
+$primary-color-dark: #4e0d3a;
+$secondary-color: #e30425;
+$error-color: orange;
+$sucess-color: green;
+
+$font-color-light: white;
+$font-color-medium: #a5a5a5;
+
+$black-dark: rgba(0, 0, 0, 1);
+$black-medium: rgba(0, 0, 0, 0.75);
+$black-light: rgba(0, 0, 0, 0.25);
+
+// margins and paddings
+$margin-xs: 0.5em;
+$margin-sm: 0.75em;
+$margin-md: 1em;
+$margin-lg: 1.25em;
+$margin-xl: 1.25em;
+$margin-2: 2em;
+$margin-3: 3em;
+$margin-5: 5em;
+
+$padding-xs: 0.5em;
+$padding-sm: 0.75em;
+$padding-md: 1em;
+$padding-lg: 1.25em;
+$padding-xl: 1.25em;
+$padding-2: 2em;
+$padding-3: 3em;
+$padding-5: 5em;
+
+// borders
+$border-radius: 1em;
+$btn-border-radius: 50%;
+
+// fonts
+$font-family: "Kumbh Sans", sans-serif;
+
+$font-xs: 0.5em;
+$font-sm: 0.75em;
+$font-md: 1em;
+$font-lg: 1.25em;
+$font-xl: 1.5em;
+$font-2: 2em;
+$font-3: 3em;
+$font-5: 5em;
+
+$font-weight-light: 100;
+$font-weight-normal: 400;
+$font-weight-bold: bold;
